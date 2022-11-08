@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JORSRDAN</title>
+  
+  <subtitle>Jorsrdan的专属小站4</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-11-08T14:26:07.663Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Jorsrdan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>七牛云·图床效果·测试</title>
+    <link href="http://example.com/2022/11/07/%E4%B8%83%E7%89%9B%E4%BA%91%C2%B7%E5%9B%BE%E5%BA%8A%E6%95%88%E6%9E%9C%C2%B7%E6%B5%8B%E8%AF%95/"/>
+    <id>http://example.com/2022/11/07/%E4%B8%83%E7%89%9B%E4%BA%91%C2%B7%E5%9B%BE%E5%BA%8A%E6%95%88%E6%9E%9C%C2%B7%E6%B5%8B%E8%AF%95/</id>
+    <published>2022-11-07T13:34:21.000Z</published>
+    <updated>2022-11-08T14:26:07.663Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;七牛云免费域名只管30天，如果想长期使用需要绑定个人域名。&quot;&gt;&lt;a href=&quot;#七牛云免费域名只管30天，如果想长期使用需要绑定个人域名。&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="测试" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub·图床测试</title>
+    <link href="http://example.com/2022/11/07/GitHub%C2%B7%E5%9B%BE%E5%BA%8A%E6%B5%8B%E8%AF%95/"/>
+    <id>http://example.com/2022/11/07/GitHub%C2%B7%E5%9B%BE%E5%BA%8A%E6%B5%8B%E8%AF%95/</id>
+    <published>2022-11-07T04:58:16.000Z</published>
+    <updated>2022-11-08T13:44:37.466Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;直接上图，以下图片均部署在Github。&quot;&gt;&lt;a href=&quot;#直接上图，以下图片均部署在Github。&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="测试" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub·图床教程</title>
+    <link href="http://example.com/2022/11/06/GitHub%C2%B7%E5%9B%BE%E5%BA%8A%E6%95%99%E7%A8%8B/"/>
+    <id>http://example.com/2022/11/06/GitHub%C2%B7%E5%9B%BE%E5%BA%8A%E6%95%99%E7%A8%8B/</id>
+    <published>2022-11-06T07:08:15.000Z</published>
+    <updated>2022-11-06T13:52:22.967Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;注册Github&quot;&gt;&lt;a href=&quot;#注册Github&quot; class=&quot;headerlink&quot; title=&quot;注册Github&quot;&gt;&lt;/a&gt;注册Github&lt;/h2&gt;&lt;p&gt;首先你得有一个Github账号，去 &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="代码" scheme="http://example.com/categories/%E4%BB%A3%E7%A0%81/"/>
+    
+    
+    <category term="代码" scheme="http://example.com/tags/%E4%BB%A3%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>This MV Is My Best Like</title>
+    <link href="http://example.com/2022/10/18/MyBestLikeMV/"/>
+    <id>http://example.com/2022/10/18/MyBestLikeMV/</id>
+    <published>2022-10-18T07:55:50.000Z</published>
+    <updated>2022-11-06T13:53:09.735Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;最喜欢的MV-《通关》&quot;&gt;&lt;a href=&quot;#最喜欢的MV-《通关》&quot; class=&quot;headerlink&quot; title=&quot;最喜欢的MV-《通关》&quot;&gt;&lt;/a&gt;最喜欢的MV-《通关》&lt;/h2&gt;&lt;pre class=&quot;line-numbers</summary>
+        
+      
+    
+    
+    
+    <category term="MV" scheme="http://example.com/categories/MV/"/>
+    
+    
+    <category term="MV" scheme="http://example.com/tags/MV/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你是哪个版本入的坑</title>
+    <link href="http://example.com/2022/09/28/%E4%BD%A0%E6%98%AF%E5%93%AA%E4%B8%AA%E7%89%88%E6%9C%AC%E5%85%A5%E7%9A%84%E5%9D%91%C2%B71-0-1-6%C2%B7/"/>
+    <id>http://example.com/2022/09/28/%E4%BD%A0%E6%98%AF%E5%93%AA%E4%B8%AA%E7%89%88%E6%9C%AC%E5%85%A5%E7%9A%84%E5%9D%91%C2%B71-0-1-6%C2%B7/</id>
+    <published>2022-09-28T05:59:01.000Z</published>
+    <updated>2022-11-06T13:55:44.890Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-0&quot;&gt;&lt;a href=&quot;#1-0&quot; class=&quot;headerlink&quot; title=&quot;1.0:&quot;&gt;&lt;/a&gt;1.0:&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2022/09/28/gpxiH1sE8VlTuLb.jpg&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="原神" scheme="http://example.com/categories/%E5%8E%9F%E7%A5%9E/"/>
+    
+    
+    <category term="原神" scheme="http://example.com/tags/%E5%8E%9F%E7%A5%9E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>尝试用Python画图</title>
+    <link href="http://example.com/2022/09/27/%E5%B0%9D%E8%AF%95%E7%94%A8Python%E7%94%BB%E5%9B%BE/"/>
+    <id>http://example.com/2022/09/27/%E5%B0%9D%E8%AF%95%E7%94%A8Python%E7%94%BB%E5%9B%BE/</id>
+    <published>2022-09-27T14:08:19.000Z</published>
+    <updated>2022-11-06T13:55:07.748Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;直接上代码&quot;&gt;&lt;a href=&quot;#直接上代码&quot; class=&quot;headerlink&quot; title=&quot;直接上代码:&quot;&gt;&lt;/a&gt;直接上代码:&lt;/h1&gt;&lt;h2 id=&quot;玫瑰实战&quot;&gt;&lt;a href=&quot;#玫瑰实战&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="代码" scheme="http://example.com/categories/%E4%BB%A3%E7%A0%81/"/>
+    
+    
+    <category term="代码" scheme="http://example.com/tags/%E4%BB%A3%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>idol-2</title>
+    <link href="http://example.com/2022/09/27/idol-2/"/>
+    <id>http://example.com/2022/09/27/idol-2/</id>
+    <published>2022-09-26T16:22:39.000Z</published>
+    <updated>2022-11-06T13:23:01.458Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;···JISOO···&quot;&gt;&lt;a href=&quot;#···JISOO···&quot; class=&quot;headerlink&quot; title=&quot;···JISOO···&quot;&gt;&lt;/a&gt;···JISOO···&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="idol" scheme="http://example.com/categories/idol/"/>
+    
+    
+    <category term="idol" scheme="http://example.com/tags/idol/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HongKong Doll</title>
+    <link href="http://example.com/2022/09/26/Doll/"/>
+    <id>http://example.com/2022/09/26/Doll/</id>
+    <published>2022-09-26T15:33:35.000Z</published>
+    <updated>2022-11-07T04:46:24.129Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;我的女神姐姐&quot;&gt;&lt;a href=&quot;#我的女神姐姐&quot; class=&quot;headerlink&quot; title=&quot;我的女神姐姐&quot;&gt;&lt;/a&gt;我的女神姐姐&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Hongkong Doll" scheme="http://example.com/tags/Hongkong-Doll/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>热门单机破解之植物大战僵尸国际版</title>
+    <link href="http://example.com/2022/09/19/%E7%83%AD%E9%97%A8%E5%8D%95%E6%9C%BA%E7%A0%B4%E8%A7%A3%E4%B9%8B%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E5%9B%BD%E9%99%85%E7%89%88/"/>
+    <id>http://example.com/2022/09/19/%E7%83%AD%E9%97%A8%E5%8D%95%E6%9C%BA%E7%A0%B4%E8%A7%A3%E4%B9%8B%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E5%9B%BD%E9%99%85%E7%89%88/</id>
+    <published>2022-09-19T11:20:30.000Z</published>
+    <updated>2022-11-06T13:56:22.339Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;今天给大家打来的是植物大战僵尸国际版的破解教程&quot;&gt;&lt;a href=&quot;#今天给大家打来的是植物大战僵尸国际版的破解教程&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="games" scheme="http://example.com/tags/games/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>热门单机修改</title>
+    <link href="http://example.com/2022/09/17/%E7%83%AD%E9%97%A8%E5%8D%95%E6%9C%BA%E4%BF%AE%E6%94%B9/"/>
+    <id>http://example.com/2022/09/17/%E7%83%AD%E9%97%A8%E5%8D%95%E6%9C%BA%E4%BF%AE%E6%94%B9/</id>
+    <published>2022-09-17T09:04:48.000Z</published>
+    <updated>2022-11-06T13:57:02.674Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;暗影格斗2修改&quot;&gt;&lt;a href=&quot;#暗影格斗2修改&quot; class=&quot;headerlink&quot; title=&quot;暗影格斗2修改&quot;&gt;&lt;/a&gt;暗影格斗2修改&lt;/h1&gt;&lt;h2 id=&quot;游戏效果展示&quot;&gt;&lt;a href=&quot;#游戏效果展示&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="games" scheme="http://example.com/tags/games/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>苍兰诀</title>
+    <link href="http://example.com/2022/09/14/%E8%8B%8D%E5%85%B0%E8%AF%80/"/>
+    <id>http://example.com/2022/09/14/%E8%8B%8D%E5%85%B0%E8%AF%80/</id>
+    <published>2022-09-14T06:23:30.000Z</published>
+    <updated>2022-11-06T13:53:51.687Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;page-1&quot;&gt;&lt;a href=&quot;#page-1&quot; class=&quot;headerlink&quot; title=&quot;page 1&quot;&gt;&lt;/a&gt;page 1&lt;/h2&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="影视推荐" scheme="http://example.com/categories/%E5%BD%B1%E8%A7%86%E6%8E%A8%E8%8D%90/"/>
+    
+    
+    <category term="影视推荐" scheme="http://example.com/tags/%E5%BD%B1%E8%A7%86%E6%8E%A8%E8%8D%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My idol</title>
+    <link href="http://example.com/2022/09/13/idol/"/>
+    <id>http://example.com/2022/09/13/idol/</id>
+    <published>2022-09-13T01:01:57.000Z</published>
+    <updated>2022-11-06T13:52:45.846Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;page-1&quot;&gt;&lt;a href=&quot;#page-1&quot; class=&quot;headerlink&quot; title=&quot;page 1&quot;&gt;&lt;/a&gt;page 1&lt;/h3&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="idol" scheme="http://example.com/categories/idol/"/>
+    
+    
+    <category term="idol" scheme="http://example.com/tags/idol/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>部署Git安装代码</title>
+    <link href="http://example.com/2022/09/12/%E9%83%A8%E7%BD%B2Git%E5%AE%89%E8%A3%85%E4%BB%A3%E7%A0%81/"/>
+    <id>http://example.com/2022/09/12/%E9%83%A8%E7%BD%B2Git%E5%AE%89%E8%A3%85%E4%BB%A3%E7%A0%81/</id>
+    <published>2022-09-12T03:45:41.000Z</published>
+    <updated>2022-11-06T13:53:27.387Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;nedo -v   #查看版本号&lt;br&gt;git -v    #查看版本号&lt;br&gt;hexo -v   #查看版本号&lt;br&gt;git config –global user.name “github用户名”&lt;br&gt;git config –global</summary>
+        
+      
+    
+    
+    
+    <category term="代码" scheme="http://example.com/categories/%E4%BB%A3%E7%A0%81/"/>
+    
+    
+    <category term="代码" scheme="http://example.com/tags/%E4%BB%A3%E7%A0%81/"/>
+    
+  </entry>
+  
+</feed>
